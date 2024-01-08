@@ -8,8 +8,7 @@
 - 👯 I’m looking to collaborate on [HTML, CSS, JAVASCRIPT,BOOTSTRAP](https://thecake17.netlify.app/)
 
 - 🤝 I’m looking for help with [JQUERY,JAVA](https://thecake17.netlify.app/)
-- 
-I’m currently working on https://hamzashahid.netlify.app/
+✔ I’m currently working on https://hamzashahid.netlify.app/
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
